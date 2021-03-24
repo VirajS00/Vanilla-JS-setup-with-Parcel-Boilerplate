@@ -7,7 +7,7 @@ Inspiration taken from this [repository](https://github.com/bradtraversy/vanilla
 Install all dependencies
 
 ```
-npm install
+npm install --save-dev
 ```
 
 For development
