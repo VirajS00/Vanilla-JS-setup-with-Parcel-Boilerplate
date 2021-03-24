@@ -1,0 +1,13 @@
+@use "components/reset";
+@use "components/Header";
+@use "components/Footer";
+@use "components/MainContent";
+
+@use "abstracts/colours" as *;
+
+body {
+	background-color: $primary-color;
+	color: #fff;
+	font-family: sans-serif;
+	min-height: 100vh;
+}

@@ -1,0 +1,21 @@
+header {
+	background-color: #212e41;
+	width: 100%;
+	padding: 1rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	border-bottom: 3px solid #a6afbb;
+	color: #a6afbb;
+
+	h2 {
+		padding: 0;
+		margin: 0;
+	}
+
+	p {
+		padding: 0;
+		margin: 0;
+	}
+}

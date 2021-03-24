@@ -1,0 +1,12 @@
+main {
+	display: grid;
+	grid-template-rows: 80px auto 80px;
+	min-height: 100vh;
+	min-width: 100vw;
+	place-items: center;
+}
+
+.container {
+	padding: 1.2rem;
+	max-width: 800px;
+}
