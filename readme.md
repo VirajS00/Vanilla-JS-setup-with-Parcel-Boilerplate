@@ -1,6 +1,6 @@
 # Vanilla JS setup with Parcel Boilerplate
 
-Inspiration taken from this [repository](https://github.com/bradtraversy/vanilla-parcel-boilerplate).
+Idea taken from this [repository](https://github.com/bradtraversy/vanilla-parcel-boilerplate).
 
 ## How to use
 
