@@ -1,4 +1,3 @@
-import '../app/scss/app.scss';
 import app from '../app/app';
 import stringToHTML from './domParcer';
 
